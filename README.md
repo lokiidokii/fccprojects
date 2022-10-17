@@ -14,7 +14,7 @@ https://www.freecodecamp.org/misshannahbergman
   <li>Registration Form</li>
 </ul>
 Certification Project
-<li><strong>SURVEY FORM</strong></li>
+<li><strong><a href="https://github.com/lokiidokii/fccprojects/tree/main/Responsive%20Web%20Design/Projects/Survey%20Form">SURVEY FORM</a></strong></li>
 <br>
 2. Coursework
 <ul>
@@ -24,7 +24,7 @@ Certification Project
   <li>Quiz</li>
 </ul>
 Certification Project 
-<li><strong>TRIBUTE PAGE</strong></li>
+<li><strong><a href="https://github.com/lokiidokii/fccprojects/tree/main/Responsive%20Web%20Design/Projects/Tribute%20Page">TRIBUTE PAGE</a></strong></li>
 <br>
 3. Coursework
 <ul>
