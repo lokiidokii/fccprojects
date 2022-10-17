@@ -8,8 +8,8 @@ https://www.freecodecamp.org/misshannahbergman
 <h2>Responsive Web Design Coursework & Projects</h2>
 1. Coursework
 <ul>
-  <li>Cat Photo App</li>
-  <li>Cafe Menu</li>
+  <li><a href="https://github.com/lokiidokii/fccprojects/tree/main/Responsive%20Web%20Design/Coursework/catPhotoApp">Cat Photo App</a></li>
+  <li><a href="https://github.com/lokiidokii/fccprojects/tree/main/Responsive%20Web%20Design/Coursework/Cafe%20Menu">Cafe Menu</a></li>
   <li>CSS Marker</li>
   <li>Registration Form</li>
 </ul>
