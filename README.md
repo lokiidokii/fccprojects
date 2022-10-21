@@ -30,7 +30,7 @@ Certification Project
 3. Coursework
 <ul>
   <li><a href="https://github.com/lokiidokii/fccprojects/tree/main/Responsive%20Web%20Design/Coursework/Balance%20Sheet">Balance Sheet</a></li>
-  <li>Picasso Painting</li>
+  <li><a href="https://github.com/lokiidokii/fccprojects/tree/main/Responsive%20Web%20Design/Coursework/Picasso%20Painting">Picasso Painting</a></li>
   <li>Playable Piano</li>
 </ul>
 Certification Project 
