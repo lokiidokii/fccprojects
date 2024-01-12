@@ -4,7 +4,6 @@ FCC Projects, certifications, and learning progress
 
 <a href="https://www.freecodecamp.org/misshannahbergman">View My FCC Profile</a>
 <br>
-<a href="https://www.freecodecamp.org/donate/">Donate to FCC :)</a>
 
 <hr>
 <h2>Responsive Web Design Coursework & Projects</h2>
